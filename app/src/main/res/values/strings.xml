@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings -->
+    <string name="app_name">Score</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <!-- Colors -->
+    <color name="background_color">#000000</color>
+    <color name="list_item_color">#222222</color>
+    <color name="text_color">#FFFFFF</color>
+
+</resources>
